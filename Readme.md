@@ -43,29 +43,29 @@ Para llevar a cabo el proyecto hemos utilizado, entre otras, las siguientes herr
 ### Autores
 **Pablo Oliva Gómez**
 - [Perfil](https://github.com/pabl0liva "Pablo Oliva")
-- [Email](pabloliva@gmail.com "¡Hola!")
+- [Email](mailto:pabloliva@gmail.com "¡Hola!")
 - [LinkedIn](https://www.linkedin.com/in/pabloliva/ "Bienvenidos")
 
 **Ricardo Afonso Spinola**
 - [Perfil](https://github.com/ricardoafsp "Ricardo Afonso")
-- [Email](rafonsospinola@gmail.com "¡Hola!")
+- [Email](mailto:rafonsospinola@gmail.com "¡Hola!")
 - [LinkedIn](https://www.linkedin.com/in/ricardoafonsospinola/ "Bienvenidos")
 
 **Nerea Gómez Miguel**
-- [Email](nereagomezmiguel@outlook.es "¡Hola!")
+- [Email](mailto:nereagomezmiguel@outlook.es "¡Hola!")
 - [LinkedIn](https://www.linkedin.com/in/nerea-g%C3%B3mez-miguel-a0512119a/ "Bienvenidos")
 
 **Malena Gómez Carrancio**
 - [Perfil](https://github.com/malenarodriguezcarrancio "Malena Gómez")
-- [Email](carranciomalena@outlook.com "¡Hola!")
+- [Email](mailto:carranciomalena@outlook.com "¡Hola!")
 - [LinkedIn](https://www.linkedin.com/in/malenarodriguezcarrancio/ "Bienvenidos")
  
 **Celia Regueiro Emperador**
-- [Email](celiaregueiro@gmail.com "¡Hola!")
+- [Email](mailto:celiaregueiro@gmail.com "¡Hola!")
 - [LinkedIn](https://www.linkedin.com/in/celia-regueiro-emperador/ "Bienvenidos")
 
 **Samanta Palango**
-- [Email](samanthacaiza93@gmail.com "¡Hola!")
+- [Email](mailto:samanthacaiza93@gmail.com "¡Hola!")
 
 ### Notas
 Los datos obtenidos son públicos y pertenecen a AEMET, al Ministerio de Agricultura, al Instituto Nacional de Estadística y al Instituto Geográfico Nacional.
@@ -73,4 +73,4 @@ Los datos obtenidos son públicos y pertenecen a AEMET, al Ministerio de Agricul
 Para la limpieza de datos hemos utilizado algunas funciones en R que nos facilitó el profesor Guillermo Villarino y que están recogidas en el fichero Funciones_R.R.
 
 ### Licencia
-Este proyecto está bajo la Licencia MIT - mira el archivo LICENSE.md para detalles.
+Este proyecto está bajo la Licencia MIT - mira el archivo [LICENSE.md](LICENSE.md) para detalles.
