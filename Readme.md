@@ -73,4 +73,4 @@ Los datos obtenidos son públicos y pertenecen a AEMET, al Ministerio de Agricul
 Para la limpieza de datos hemos utilizado algunas funciones en R que nos facilitó el profesor Guillermo Villarino y que están recogidas en el fichero Funciones_R.R.
 
 ### Licencia
-Este proyecto está bajo la Licencia MIT - mira el archivo [LICENSE](LICENSE) para detalles.
+Este proyecto está bajo la Licencia MIT - mira el archivo [LICENSE](LICENSE) para más detalles.
