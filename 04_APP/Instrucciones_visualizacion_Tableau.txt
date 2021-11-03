@@ -1,4 +1,4 @@
-Para la aplicacion de Tableau, se utilizan los fincheors de estaciones_nulos_limpio2.csv, todo.csv y el archivo espania.shp que se encuentra en el siguiente enlace a drive:
+Para la aplicacion de Tableau, se utilizan los ficheros de estaciones_nulos_limpio2.csv, todo.csv y el archivo espania.shp que se encuentra en el siguiente enlace a drive:
 
 
-https://drive.google.com/file/d/1A3TCITgNPIUWbMc1hOS1nNgyeVB8duiJ/view?usp=sharing
+https://drive.google.com/file/d/1glVDK2w2-5UZpasf9b4ykOxLZJHskKvL/view?usp=sharing
